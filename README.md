@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rdbajwa, I am data enthusiast
 - 👀 I’m interested in learning more about data analysis, tools & technology related to it.
-- 🌱 I’m currently learning python programming language.
-- 💞️ I’m looking for my first job in data anlysis
+- 🌱 I’m currently doing projects of my own for brushing my skills in SQL and Python
+- 💞️ Looking for challenging roles in data analysis
 
 
 <!---
