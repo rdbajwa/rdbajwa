@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rdbajwa, I am data enthusiast
-- 👀 I’m interested in learning more about data analysis, tools & technology related to it.
-- 🌱 I’m currently doing projects of my own for brushing my skills in SQL and Python
+- 👀 I am fat learner & love to learn more about data analysis, tools & technology.
+- 🌱 Currently doing projects of my own for brushing my skills in SQL, R, Python
 - 💞️ Looking for challenging roles in data analysis
 
 
